@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.gvtv.manage.base</groupId>
-	<artifactId>manage_sys_tpl</artifactId>
+	<artifactId>credit_manager</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
-	<name>manage_sys_tpl Maven Webapp</name>
+	<name>credit_manager Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -231,7 +231,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>manage_sys_tpl</finalName>
+		<finalName>credit_manager</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
